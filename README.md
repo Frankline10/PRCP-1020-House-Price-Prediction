@@ -105,9 +105,21 @@ House-Price-Prediction/
 
 ---
 
-## 📸 Screenshots
 
-> Add screenshots of your Streamlit app here for better presentation.
+## 📸 Web Application Demo
+
+
+https://prcp-1020-house-price-prediction-pffkmyybxmjfjz9nc2eqhy.streamlit.app
+
+
+---
+
+
+## 📸 Web Application Demo
+
+
+<img width="391" height="663" alt="House Price Prediction Application" src="https://github.com/user-attachments/assets/d26e6f00-3d85-4481-979c-4d1298b4a9f3" />
+
 
 ---
 
