@@ -76,7 +76,7 @@ Follow these steps to run the project locally:
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/house-price-prediction.git
+gh repo clone Frankline10/PRCP-1020-House-Price-Prediction
 
 # Navigate to the project folder
 cd '/Users/soujanyaprokashsingha/Documents/Data Analyst_Science/Professional Projects/Datamites Projects/PRCP-1020-House-Price-Prediction'
